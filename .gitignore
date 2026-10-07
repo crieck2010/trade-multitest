@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# evidence/data caches (regenerable test byproducts)
+docs/**/evidence/cache/
+docs/research/round2/evidence/panel/
